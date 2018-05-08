@@ -7,8 +7,6 @@
     <body>
         <div class="menu">
             <ul>
-                <div class="logo">
-                    <img src='../pics/logo.png' alt="logo"> 
-                </div>
-            </ul>       
+               <img src='../pics/logo.png' alt="logo">
+            </ul>
         </div>
